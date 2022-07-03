@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ALI-QADIR
-- 👀 I’m interested in Game developement and Cyber Security and Forensics
-- 🌱 I’m currently learning basics of python and web dev(because i like web dev too)
-- 💞️ I’m looking to collaborate on basic python projects and basic front-end web dev(using HTML, CSS and Bootstrap)
+- 👀 I’m interested in Game developement and Web Development.
+- 🌱 I’m currently learning Web Dev and basics of Game Dev using Unity.
+- 💞️ I’m looking to collaborate on front-end web development projects.
