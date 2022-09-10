@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ALI-QADIR
 - 👀 I’m interested in Game developement and Web Development.
-- 🌱 I’m currently learning Web Dev and basics of Game Dev using Unity.
-- 💞️ I’m looking to collaborate on front-end web development projects.
+- 🌱 I’m a Mern Stack Web Developer and learning basics of Game Dev using Unity.
+- 💞️ I’m looking to collaborate on front-end web development projects and Unity game projects
